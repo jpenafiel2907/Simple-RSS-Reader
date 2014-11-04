@@ -1,0 +1,13 @@
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\RSSReaderbyJason.csproj.GenerateResource.Cache
+C:\Users\Jason\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\RSSReaderbyJason.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\RSSReaderbyJasonPenafiel.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\RSSReaderbyJasonPenafiel.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\RSSReaderbyJasonPenafiel.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\RSSReaderbyJasonPenafiel.Properties.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\RSSReaderbyJasonPenafiel.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\RSSReaderbyJasonPenafiel.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\RSSReaderbyJasonPenafiel.exe.manifest
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\RSSReaderbyJasonPenafiel.application
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\RSSReaderbyJasonPenafiel.exe.manifest
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\RSSReaderbyJasonPenafiel.application
